@@ -1,2 +1,2 @@
-# image_fusion_lrr
-multi-focus image fusion using low-rank representation
+# Noisy image fusion using lrr
+multi-focus noisy image fusion using low-rank representation
