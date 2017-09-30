@@ -24,13 +24,9 @@ for i=1:10
 %     image_right = ['./made_images_no/image',num2str(i),'_02_no_right.png'];
 %     picname = ['fused_no_02_',num2str(i)];
 
-%     image_left = ['./made_images_no/image',num2str(i),'_01_no_left.png'];
-%     image_right = ['./made_images_no/image',num2str(i),'_01_no_right.png'];
+%     image_left = ['./made_images_no/image',num2str(i),'_05_no_left.png'];
+%     image_right = ['./made_images_no/image',num2str(i),'_05_no_right.png'];
 %     picname = ['fused_no_01_',num2str(i)];
-
-%     image_left = ['./made-images/image',num2str(i),'_left.png'];
-%     image_right = ['./made-images/image',num2str(i),'_right.png'];
-%     picname = ['fused',num2str(i)];
     
     sourceTestImage1 = imread(image_left);
     sourceTestImage2 = imread(image_right);
