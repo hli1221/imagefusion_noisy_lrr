@@ -1,11 +1,28 @@
-# Noisy image fusion using lrr
-multi-focus noisy image fusion using low-rank representation
+# Multi-focus Noisy Image Fusion using Low-Rank Representation
+Under Review(IET image processing)
 
 
 ## Abstract
 
-In the process of image acquisition, the noise is inevitable for source image. The multi-focus noisy image fusion is a very challenging task. However, there is no truly adaptive noisy image fusion approaches at present. As we all know, Low-Rank representation (LRR) is robust to noise and outliers. 
+We propose a novel fusion method based on LRR for multi-focus noisy image fusion. 
 
-In this paper, we propose a novel fusion method based on LRR for multi-focus noisy image fusion. In the discrete wavelet transform(DWT) framework, the low frequency coefficients are fused by spatial frequency, the high frequency coefficients are fused by LRR coefficients. Finally, the fused image is obtained by inverse DWT. 
+In the discrete wavelet transform(DWT) framework, the low frequency coefficients are fused by spatial frequency, the high frequency coefficients are fused by LRR coefficients. Finally, the fused image is obtained by inverse DWT. 
 
-Experimental results demonstrate that the proposed algorithm can obtain state-of-the-art performance when the source image contains noise.
+
+## Figures
+1 made_images_gau ---- source images contain Gaussian noise.
+2 made_images_no  ---- source images contain Salt & Pepper noise.
+3 made_images_poi ---- source images contain Poisson noise.
+
+
+## Source code
+1 main.m --- test demo.
+
+2 LRR_wavelet_1level.m --- our method.
+
+2 The code of LRR
+	solve_lrr.m
+	solve_l1l2.m
+	inexact_alm_lrr_l1l2.m, inexact_alm_lrr_l1.m
+	exact_alm_lrr_l1l2.m, exact_alm_lrr_l1.m
+
