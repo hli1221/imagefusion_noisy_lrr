@@ -21,8 +21,13 @@ In the discrete wavelet transform(DWT) framework, the low frequency coefficients
 2 LRR_wavelet_1level.m --- our method.
 
 2 The code of LRR
+
 	solve_lrr.m
+
 	solve_l1l2.m
+
 	inexact_alm_lrr_l1l2.m, inexact_alm_lrr_l1.m
+
 	exact_alm_lrr_l1l2.m, exact_alm_lrr_l1.m
+
 
