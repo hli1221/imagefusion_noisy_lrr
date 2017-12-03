@@ -43,7 +43,7 @@ In the discrete wavelet transform(DWT) framework, the low frequency coefficients
 ## LRR parts
 Thr LRR method is proposed by Guangcan Liu in 2010.
 
-Liu G, Lin Z, Yu Y. Robust Subspace Segmentation by Low-Rank Representation[C]// International Conference on Machine Learning. DBLP, 2010:663-670.
+"Liu G, Lin Z, Yu Y. Robust Subspace Segmentation by Low-Rank Representation[C]// International Conference on Machine Learning. DBLP, 2010:663-670."
 
 And we just use this method in our paper without change.
 
