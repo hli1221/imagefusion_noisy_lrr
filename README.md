@@ -1,6 +1,13 @@
 # Multi-focus Noisy Image Fusion using Low-Rank Representation
 Under Review(IET image processing)
 
+## The framework for fusion method
+
+<b>The framework</b>
+![](https://github.com/exceptionLi/imagefusion_noisy_lrr/blob/master/framework/framework_for_method.jpg)
+
+<b>Fusion high frequency</b>
+![](https://github.com/exceptionLi/imagefusion_noisy_lrr/blob/master/framework/fusion_highfrequency.jpg)
 
 ## Abstract
 
