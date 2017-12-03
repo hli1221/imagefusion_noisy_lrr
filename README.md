@@ -1,4 +1,6 @@
 # Multi-focus Noisy Image Fusion using Low-Rank Representation
+
+"Hui Li, Xiao-Jnu Wu. Multi-focus Noisy Image Fusion using Low-Rank Representation"
 Under Review(IET image processing)
 
 ## The framework for fusion method
