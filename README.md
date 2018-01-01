@@ -52,7 +52,7 @@ And we just use this method in our paper without change.
 ```
 @misc{li2017noisyimagefusion,
     author = {Hui Li},
-    title = {Multi-focus Noisy Image Fusion using Low-Rank Representation},
+    title = {CODE: Multi-focus Noisy Image Fusion using Low-Rank Representation},
     year = {2017},
     publisher = {GitHub},
     journal = {GitHub repository},
