@@ -47,3 +47,16 @@ Thr LRR method is proposed by Guangcan Liu in 2010.
 
 And we just use this method in our paper without change.
 
+
+# Citation
+```
+@misc{li2017noisyimagefusion,
+    author = {Hui Li},
+    title = {Multi-focus Noisy Image Fusion using Low-Rank Representation},
+    year = {2017},
+    publisher = {GitHub},
+    journal = {GitHub repository},
+    howpublished = {\url{https://github.com/exceptionLi/imagefusion_noisy_lrr}}
+  }
+```
+
