@@ -1,6 +1,6 @@
 # Multi-focus Noisy Image Fusion using Low-Rank Representation
 
-"[Hui Li, Xiao-Jnu Wu. Multi-focus Noisy Image Fusion using Low-Rank Representation.](https://pan.baidu.com/s/1bpg31KF)"
+[Hui Li, Xiao-Jnu Wu. Multi-focus Noisy Image Fusion using Low-Rank Representation.]()
 
 Under Review(IET image processing)
 
