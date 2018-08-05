@@ -35,7 +35,7 @@ In the discrete wavelet transform(DWT) framework, the low frequency coefficients
 
 
 ## Source code
-1 main.m --- test demo.
+1 main_lrr.m --- test demo.
 
 2 LRR_wavelet_1level.m --- lrr + wavelet level 1.
   LRR_wavelet_2level.m --- lrr + wavelet level 2(our method).
