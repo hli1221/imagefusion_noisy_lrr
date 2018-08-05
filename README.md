@@ -29,17 +29,19 @@ In the discrete wavelet transform(DWT) framework, the low frequency coefficients
 
 
 ## Figures
-1 made_images_gau ---- source images contain Gaussian noise.
-2 made_images_no  ---- source images contain Salt & Pepper noise.
-3 made_images_poi ---- source images contain Poisson noise.
+1 original_images
+2 mf_noise_images  ---- multi-focus images contain different noise
+3 focus_images ---- sources images
 
 
 ## Source code
 1 main.m --- test demo.
 
-2 LRR_wavelet_1level.m --- our method.
+2 LRR_wavelet_1level.m --- lrr + wavelet level 1.
+  LRR_wavelet_2level.m --- lrr + wavelet level 2(our method).
+  LRR_wavelet_3level.m --- lrr + wavelet level 3.
 
-2 The code of LRR
+3 The code of LRR
 
 	solve_lrr.m
 
