@@ -6,11 +6,20 @@ Under Review(IET image processing)
 
 ## The framework for fusion method
 
+<b>DWT for level 2</b>
+![](https://github.com/exceptionLi/imagefusion_noisy_lrr/blob/master/framework/dwt_images.png)
+
 <b>The framework</b>
-![](https://github.com/exceptionLi/imagefusion_noisy_lrr/blob/master/framework/framework_for_method.jpg)
+![](https://github.com/exceptionLi/imagefusion_noisy_lrr/blob/master/framework/framework.png)
 
 <b>Fusion high frequency</b>
-![](https://github.com/exceptionLi/imagefusion_noisy_lrr/blob/master/framework/fusion_highfrequency.jpg)
+![](https://github.com/exceptionLi/imagefusion_noisy_lrr/blob/master/framework/fusion_high.png)
+
+<b>Original images</b>
+![](https://github.com/exceptionLi/imagefusion_noisy_lrr/blob/master/framework/original_images.png)
+
+<b>Noise images with multi-focus</b>
+![](https://github.com/exceptionLi/imagefusion_noisy_lrr/blob/master/framework/nosie_example.png)
 
 ## Abstract
 
