@@ -6,7 +6,7 @@ Under Review(IET image processing)
 
 ## The framework for fusion method
 
-<b>DWT for level 2</b>
+### <b>DWT for level 2</b>
 ![](https://github.com/exceptionLi/imagefusion_noisy_lrr/blob/master/framework/dwt_images.png)
 
 <b>The framework</b>
