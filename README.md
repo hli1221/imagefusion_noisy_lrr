@@ -12,7 +12,7 @@ Under Review(IET image processing)
 ### <b>The framework</b>
 ![](https://github.com/exceptionLi/imagefusion_noisy_lrr/blob/master/framework/framework.png)
 
-<b>Fusion high frequency</b>
+### <b>Fusion high frequency</b>
 ![](https://github.com/exceptionLi/imagefusion_noisy_lrr/blob/master/framework/fusion_high.png)
 
 ### <b>Original images</b>
