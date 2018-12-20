@@ -69,7 +69,7 @@ And we just use this method in our paper without change.
     year = {2017},
     publisher = {GitHub},
     journal = {GitHub repository},
-    howpublished = {\url{https://github.com/exceptionLi/imagefusion_noisy_lrr}}
+    howpublished = {\url{https://github.com/hli1221/imagefusion_noisy_lrr}}
   }
 ```
 
