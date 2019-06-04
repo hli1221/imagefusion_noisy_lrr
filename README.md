@@ -9,11 +9,15 @@ IET image processing(Under Review)
 ### <b>DWT for level 2</b>
 ![](https://github.com/hli1221/imagefusion_noisy_lrr/blob/master/framework/dwt_images.png)
 
+### <b>NSCT for level 2</b>
+![](https://github.com/hli1221/imagefusion_noisy_lrr/blob/master/framework/dec_nsct.png)
+
+
 ### <b>The framework</b>
 ![](https://github.com/hli1221/imagefusion_noisy_lrr/blob/master/framework/framework.png)
 
 ### <b>Fusion high frequency</b>
-![](https://github.com/hli1221/imagefusion_noisy_lrr/blob/master/framework/fusion_high.png)
+![](https://github.com/hli1221/imagefusion_noisy_lrr/blob/master/framework/fs_lrr.png)
 
 ### <b>Original images</b>
 ![](https://github.com/hli1221/imagefusion_noisy_lrr/blob/master/framework/original_images.png)
