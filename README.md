@@ -27,8 +27,10 @@ IET image processing(Under Review)
 
 
 ## Figures
-1 original_images
+1 original_images  
+
 2 mf_noise_images  ---- multi-focus images contain different noises
+
 3 focus_images ---- sources images
 
 
