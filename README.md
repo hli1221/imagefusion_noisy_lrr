@@ -25,29 +25,19 @@ IET image processing(Under Review)
 ### <b>Noise images with multi-focus</b>
 ![](https://github.com/hli1221/imagefusion_noisy_lrr/blob/master/framework/nosie_example.png)
 
-## Abstract
-
-We propose a novel fusion method based on LRR for multi-focus noisy image fusion. 
-
-In the discrete wavelet transform(DWT) framework, the low frequency coefficients are fused by spatial frequency, the high frequency coefficients are fused by LRR coefficients. Finally, the fused image is obtained by inverse DWT. 
-
 
 ## Figures
 1 original_images
-2 mf_noise_images  ---- multi-focus images contain different noise
+2 mf_noise_images  ---- multi-focus images contain different noises
 3 focus_images ---- sources images
 
 
 ## Source code
-1 main_lrr.m --- test demo.
+1 main.m --- test demo.
 
-2 LRR_wavelet_1level.m --- lrr + wavelet level 1.
+2 'methods' - multi-scale transform frameworks
 
-  LRR_wavelet_2level.m --- lrr + wavelet level 2(our method).
-  
-  LRR_wavelet_3level.m --- lrr + wavelet level 3.
-
-3 The code of LRR
+3 The code of LRR in 'lrr'
 
 	solve_lrr.m
 
