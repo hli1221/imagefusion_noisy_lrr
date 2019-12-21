@@ -63,9 +63,7 @@ And we just use this method in our paper without change.
     author = {Hui Li},
     title = {CODE: Multi-focus Noisy Image Fusion using Low-Rank Representation},
     year = {2017},
-    publisher = {GitHub},
-    journal = {GitHub repository},
-    howpublished = {\url{https://github.com/hli1221/imagefusion_noisy_lrr}}
+    note = {\url{https://github.com/hli1221/imagefusion_noisy_lrr}}
   }
 ```
 
